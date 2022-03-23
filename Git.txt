@@ -26,19 +26,19 @@ The server doesn’t have to store a physical file for each branch — it just n
 
 GIT VS SVN
 
-            Git	                          					        	         SVN  
+            Git	                                                       SVN  
 It's a distributed version control system.	                 It's a Centralized version control system
-Git is an SCM (source code management).	                     SVN is revision control.
+Git is an SCM (source code management).	                 SVN is revision control.
 Git has a cloned repository.	                             SVN does not have a cloned repository.
-The Git branches are familiar to work.                       The SVN branches are a folder which exists in the repository.
-The Git system helps in merging the files                    Some special commands are required For merging the branches.
-quickly and also assist in finding the unmerged
+The Git branches are familiar to work.                           The SVN branches are a folder which exists in the repository.
+The Git system helps in merging the files                        Some special commands are required For merging the branches.
+quickly and also assist in finding the unmerged 
 ones.	 
-Git does not have a Global revision number.                  SVN has a Global revision number.
+Git does not have a Global revision number.                      SVN has a Global revision number.
 Git has cryptographically hashed contents that 
-protect the contents from repository corruption              SVN does not have any cryptographically hashed contents.
+protect the contents from repository corruption                  SVN does not have any cryptographically hashed contents.
 taking place due to network issues or disk failures.	
 Git stored content as metadata.	                             SVN stores content as files.
 Git has more content protection than SVN.	                 SVN's content is less secure than Git.
-Linus Torvalds developed git for Linux kernel.	             CollabNet, Inc developed SVN.
-Git is distributed under GNU (General public license).       SVN is distributed under the open-source license.
+Linus Torvalds developed git for Linux kernel.	                 CollabNet, Inc developed SVN.
+Git is distributed under GNU (General public license).           SVN is distributed under the open-source license.
