@@ -1,0 +1,44 @@
+What is git?
+Git is a DevOps tool used for source code management. It is a free and open-source version control system used to handle small to very large projects efficiently.
+Git is used to tracking changes in the source code, enabling multiple developers to work together on non-linear development.
+
+Features of Git
+
+Tracks history
+Free and open source
+Supports non-linear development
+Creates backups
+Scalable
+Supports collaboration
+Branching is easier
+Distributed development
+
+
+What is version control system?
+A version control system is a software that tracks changes to a file or set of files over time so that you can recall specific versions later.
+It also allows you to work together with other programmers.
+
+
+What is distributed version control system?
+A distributed version control system  brings a local copy of the complete repository to every team member’s computer, so they can commit, branch, and merge locally.
+The server doesn’t have to store a physical file for each branch — it just needs the differences between each commit
+
+
+GIT VS SVN
+
+            Git	                          					        	         SVN  
+It's a distributed version control system.	                 It's a Centralized version control system
+Git is an SCM (source code management).	                     SVN is revision control.
+Git has a cloned repository.	                             SVN does not have a cloned repository.
+The Git branches are familiar to work.                       The SVN branches are a folder which exists in the repository.
+The Git system helps in merging the files                    Some special commands are required For merging the branches.
+quickly and also assist in finding the unmerged
+ones.	 
+Git does not have a Global revision number.                  SVN has a Global revision number.
+Git has cryptographically hashed contents that 
+protect the contents from repository corruption              SVN does not have any cryptographically hashed contents.
+taking place due to network issues or disk failures.	
+Git stored content as metadata.	                             SVN stores content as files.
+Git has more content protection than SVN.	                 SVN's content is less secure than Git.
+Linus Torvalds developed git for Linux kernel.	             CollabNet, Inc developed SVN.
+Git is distributed under GNU (General public license).       SVN is distributed under the open-source license.
